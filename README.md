@@ -1,2 +1,2 @@
 # Initial README Commit
-My first personal website. Basically it is just a resume.
+My first personal website. 
